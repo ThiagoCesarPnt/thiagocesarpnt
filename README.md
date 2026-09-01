@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩸 𝔖𝔞𝔫𝔱𝔬𝔇𝔞𝔫𝔱𝔢 🩸
+# ♰ $𝔞𝔫𝔱𝔬𝔇𝔞𝔫𝔱𝔢 ♰
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 </div>
 <div align="right">
 
-### Creator — Holy Insanity 🩸
+### ℭ𝔯𝔢𝔞𝔱𝔬𝔯 - ℌ𝔬𝔩𝔶 ℑ𝔫𝔰𝔞𝔫𝔦𝔱𝔶 ♰
 
 </div>
 
