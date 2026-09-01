@@ -1,9 +1,11 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thiagocesarpnt&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=thiagocesarpnt&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thiagocesarpnt&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🐍 My Contributions
 
----
-[![](https://komarev.com/ghpvc/?username=thiagocesarpnt&icon=0&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
